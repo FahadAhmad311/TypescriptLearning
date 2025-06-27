@@ -5,6 +5,6 @@ function doSomething(fn) {
 function myFunc(someArg) {
     return someArg > 3;
 }
-myFunc.description = "default description";
+myFunc.description = "default description ";
 doSomething(myFunc);
 //# sourceMappingURL=program3.js.map
